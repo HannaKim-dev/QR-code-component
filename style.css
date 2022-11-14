@@ -60,7 +60,7 @@ body {
 }
 
 .container {
-    width: 300px;
+    width: 350px;
 	background-color: var(--White);
 	display: flex;
 	flex-direction: column;
@@ -85,22 +85,22 @@ body {
 
 .content {
 	text-align: center;
-	padding: 5px 28px;
+	padding: 10px 28px;
 }
 
 .head {
 	font-family: 'Outfit', sans-serif;
 	color: var(--Dark-blue);
-	font-size: 21px;
+	font-size: 25px;
 	font-weight: 700;
-	line-height: 1.5rem;
-	margin-bottom: 15px;
+	line-height: 1.7rem;
+	margin-bottom: 20px;
 }
 
 .text {
 	font-family: 'Outfit', sans-serif;
 	color: var(--Grayish-blue);
-	font-size: 15px;
+	font-size: 17px;
 	font-weight: 400;
 	line-height: 1.2rem;
 	margin-bottom: 30px;
